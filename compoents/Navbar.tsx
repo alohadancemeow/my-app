@@ -21,7 +21,7 @@ const Navbar: NextPage = (props: Props) => {
           <Image
             className='cursor-pointer'
             src={Logo}
-            alt='tiktik'
+            alt='logo'
             layout='responsive'
           />
         </div>
